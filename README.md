@@ -1,4 +1,4 @@
-<h1> McGill Software Engineering Co-Op student </h1>
+## McGill Software Engineering Co-Op student
 
 ---
 
