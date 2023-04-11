@@ -1,8 +1,5 @@
 **McGill Software Engineering Co-Op student**
-Top 700 in VValorant
-Global Elite
-Masters in Ow, 
-HANZO MAIN
+
 ---
 
 ### Languages and Tools
