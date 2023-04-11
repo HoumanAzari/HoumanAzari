@@ -1,4 +1,4 @@
-**McGill Software Engineering Co-Op student**
+###McGill Software Engineering Co-Op student
 
 ---
 
