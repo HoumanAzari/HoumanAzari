@@ -1,8 +1,4 @@
-### Goldrelia :)!
-
-**McGill Comp Eng student (and father of 2(cats).**
-
-Eat, sleep, live, and breathe in front of my computer.
+**McGill Software Engineering Co-Op student**
 
 ---
 
